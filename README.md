@@ -3,12 +3,7 @@
   <h1>🧾 HR Analytics Dashboard</h1>
   <p><i>Uncover workforce trends & reduce attrition with data</i></p>
   
-  <!-- BADGES -->
-  ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-  ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-  ![DAX](https://img.shields.io/badge/DAX-000000?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCIgdmlld0JveD0iMCAwIDMyIDMyIj48cGF0aCBkPSJNMjYgMTBhMTAgMTAgMCAwIDEtMTAgMTAgMTAgMTAgMCAwIDEtMTAtMTAgMTAgMTAgMCAwIDEgMTAtMTAgMTAgMTAgMCAwIDEgMTAgMTB6IiBmaWxsPSIjZmZmIi8+PC9zdmc+&logoColor=white)
-  ![Power Query](https://img.shields.io/badge/Power_Query-00A4EF?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCIgdmlld0JveD0iMCAwIDMyIDMyIj48cGF0aCBkPSJNMjYgMTBhMTAgMTAgMCAwIDEtMTAgMTAgMTAgMTAgMCAwIDEtMTAtMTAgMTAgMTAgMCAwIDEgMTAtMTAgMTAgMTAgMCAwIDEgMTAgMTB6IiBmaWxsPSIjZmZmIi8+PC9zdmc+&logoColor=white)
-</div>
+
 
 ---
 
