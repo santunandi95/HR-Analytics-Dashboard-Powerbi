@@ -52,7 +52,8 @@ Attrition Trend by Years at Company
 Clean dark-themed professional dashboard layout
 
 🖼️ Screenshots / Demos
-Dashboard Overview https://github.com/santunandi95/HR-Analytics-Dashboard-Powerbi/blob/main/HR_Analysis_Dashboard.png
+Dashboard Overview 
+Hr : https://github.com/santunandi95/HR-Analytics-Dashboard-Powerbi/blob/main/HR_Analysis_Dashboard.png
 
 HR Analytics Dashboard
 
@@ -73,6 +74,6 @@ Life Sciences education background shows notable attrition share
 🧠 Author
 
 Santu Nandi
-Data Analyst & AI/ML Enthusiast
+Data Analytics & AI Specialist | Machine Learning Explorer | Passionate about Generative AI
 
-🔗 GitHub Profile | 📊 Power BI Projects | 💬 Data & AI Learning Journey
+🔗 GitHub Profile | 📊 Power BI Projects 
