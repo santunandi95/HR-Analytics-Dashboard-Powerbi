@@ -52,7 +52,7 @@ Attrition Trend by Years at Company
 Clean dark-themed professional dashboard layout
 
 🖼️ Screenshots / Demos
-Dashboard Overview
+Dashboard Overview https://github.com/santunandi95/HR-Analytics-Dashboard-Powerbi/blob/main/HR_Analysis_Dashboard.png
 
 HR Analytics Dashboard
 
